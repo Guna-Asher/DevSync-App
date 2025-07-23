@@ -1,0 +1,7 @@
+Flask
+Flask-SocketIO
+Flask-Cors
+Flask-JWT-Extended
+SQLAlchemy
+eventlet
+bcrypt
